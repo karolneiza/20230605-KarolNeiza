@@ -1,0 +1,148 @@
+$ history
+    1  ls
+    2  nano
+    3  nano
+    4  git clone https://github.com/karolneiza/Mochila_Neiza_Karol.git
+    5  cd Mochila_Neiza_Karol
+    6  git status
+    7  git add .
+    8  git commit -m "primer commit"
+    9  git push -u origin main
+   10  git clone https://github.com/kunoichitzu/cv_frontend.git~
+   11  git clone https://github.com/kunoichitzu/cv_frontend.git
+   12   git clone https://github.com/kunoichitzu/cv_frontend.git
+   13  ~ls
+   14  ls
+   15  git clone https://github.com/kunoichitzu/cv_frontend.git
+   16  git init frontend
+   17  mkdir playground
+   18  cd
+   19  git init
+   20  touch app.js
+   21  git status
+   22  git add app.js
+   23  git status
+   24  mkdir mercadoAbierto
+   25  cd
+   26  git init
+   27  producto.js
+   28  touch producto.js
+   29  git status
+   30  cd
+   31  git init
+   32  git touch productos.js
+   33  touch producto.js
+   34  git status
+   35  git init
+   36  mkdir marcadoAbierto
+   37  git clone
+   38  git clone https://github.com/karolneiza/Playground.git
+   39  cd
+   40  git init
+   41  touch app.js
+   42  ls
+   43  git status
+   44  mkdir mercadoAbierto
+   45  ls
+   46  cd Documents
+   47  clear
+   48  mkdir mercadoAbierto
+   49  cd
+   50  cd mercadoAbierto
+   51  git init
+   52  touch productos.js
+   53  git status
+   54  git add productos.js
+   55  git status
+   56  git commit -m "primer commit"
+   57  git status
+   58  clear
+   59  cd ..
+   60  git clone https://github.com/karolneiza/Playground.git
+   61  clear
+   62  git clone https://github.com/karolneiza/Playground.git
+   63  cd Playground
+   64  touch app.js
+   65  git status
+   66  git add app.js
+   67  git status
+   68  git commit -m "mi primer commit"
+   69  git status
+   70  git push origin main
+   71  git status
+   72  clear
+   73  mkdir Primer_Examen_Apellido_y_Nombre
+   74  cd ..
+   75  mkdir Primer_Examen_Apellido_y_Nombre
+   76  cd
+   77  cd .
+   78  ls
+   79  cd    Primer_Examen_Apellido_y_Nombre
+   80  mkdir La_terminal Git_github Estructura_de_las_computadoras Contabilidad Memorias Memorias2 Sistemas_operativos Procesos
+   81  touch registros.txt
+   82  cd Memorias
+   83  mkdir MemoriaSecundaria MemoriaPrincipal
+   84*
+   85  mv ram.txt MemoriaPrincipal
+   86  mv rom.txt MemoriaPrincipal
+   87  mv registros.txt MemoriaSecundaria
+   88  mv cache.txt MemoriaPrincipal
+   89  mv ssd.txt MemoriaSecundaria
+   90  mv dvd.txt MemoriaSecundaria
+   91  mv disco_extraible.txt MemoriaSecundaria
+   92  ls-R
+   93  ls -R
+   94  cd .
+   95  cd ..
+   96  rmdir Contabilidad
+   97  ls
+   98  mv registros.txt Memorias/MemoriaSecundaria        
+   99  ls
+  100  ls
+  101  cp -r Memorias Memorias2
+  102  ls
+  103  cd Memoria2
+  104  cd Memorias2
+  105*
+  106  ls -R
+  107  git log
+  108  git clear
+  109  clear
+  110  git clone https://github.com/karolneiza/20230605-KarolNeiza.git
+  111  touch comandos.txt main.js index.html
+  112  git add .
+  113  git commit -m "commit 01 de KarolNeiza"
+  114  git push -u origin main
+  115   git branch feature01
+  116  git checkout feature01
+  117  mkdir Terminal Hardware
+  118  cd Terminal
+  119  touch resumen.txt
+  120  cd ..
+  121  cd Hardware
+  122  touch resumen.txt
+  123  git add .
+  124  git commit -m "commit 02 de KarolNeiza"
+  125  git push origin feature01
+  126*
+  127  git commit -m "commit 03 de KarolNeiza"
+  128  cd ..
+  129  git add .
+  130  git commit -m "commit 04 de KarolNeiza"
+  131  git push origin feature01
+  132   git branch feature02
+  133  git checkout feature02
+  134  git checkout feature01
+  135  cd Terminal
+  136  cd ..
+  137  git add .
+  138  git commit -m "commit 05 de KarolNeiza"
+  139*
+  140  git checkout feature02
+  141  git checkout main
+  142  git checkout feature02
+  143  git add .
+  144  git commit -m "commit 06 de KarolNeiza"
+  145  git push origin feature02
+  146  git checkout main
+  147  history
