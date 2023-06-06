@@ -1,0 +1,5 @@
+Git add .
+Git commit -m "Mensaje"
+Git clone
+Git status
+Git init
